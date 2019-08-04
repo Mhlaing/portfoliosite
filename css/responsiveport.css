@@ -342,6 +342,10 @@ border-color: rgb(244, 175, 248);*/
     display:none;
 }
 
+.footersocialmedia {
+    display: none;
+}
+
 
 
 
@@ -639,6 +643,34 @@ border-color: rgb(244, 175, 248);*/
     border-color: rgb(255, 255, 255);
     border-width: 1px;
     
+}
+
+.footersocialmedia {
+    display: inline-block;
+}
+
+.facebookfooter {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-top: 100px;
+    margin-left: 17px;
+}
+
+.instagramfooter {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-top: 100px;
+    margin-left: 105px;
+}
+
+.linkedinfooter {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-top: 100px;
+    margin-left: 105px;
 }
 
 
